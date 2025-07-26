@@ -1,0 +1,1 @@
+run script from a terminal (powershell / bash), enter the absolute path to the desired folder, and enter
